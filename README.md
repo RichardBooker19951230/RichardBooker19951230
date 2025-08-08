@@ -26,11 +26,3 @@ Goals:
 - Finish Sparrow Project (Solo) as a Hobby Project (2025)
 - Get that Software Engineering Degree
 
-## My Certificates
-
-<div style="display: flex; flex-direction:row;">
-  
-<img width="200" src="comptiaitf.png" />
-<img width="200" src="cloudpractitioner.png" />
-<img width="200" src="wgufrontend.png" />
-  </div>
