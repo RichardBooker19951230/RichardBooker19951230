@@ -10,20 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Full-Stack%20Developer;Will%20Code%20For%20Chicken%20Alfredo!%20;Always%20Challenging%20Myself%20Higher&font=Fira%20Code&center=true&width=440&height=45&color=F68F9E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@RichardThienDuong"><img width="32px" alt="Youtube" title="Subscribe!" src="images/youtube_icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/hisuby"><img width="32px" alt="Twitter" title="Follow me!" src="images/twitter_icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ePvErp7n64" alt="Discord" title="Txt me!"><img width="32px" src="images/discord_icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/richardthienduong"><img width="32px" alt="Dev.to" title="richardthienduong Dev.to" src="images/dev_icon.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/richardthienduong"><img width="32px" alt="Ko-fi" title="Buy me a tea!" src="images/ko-fi_icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 <br/>
 
 <!-- Social badges section -->
@@ -52,11 +38,8 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available here and at [hisuby.com/me](https://hisuby.com/me)
-
 - 💬 Ask me about **anything with fullstack development**
 
-- 📫 Reach me out at **any of my platforms or support@hisuby.com**
 
 </details>
 
