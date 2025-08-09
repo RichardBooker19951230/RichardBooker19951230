@@ -145,29 +145,3 @@
     <a href="https://discord.gg/hisuby#8989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hisuby#8989" height="30" width="40" /></a>
   </p>
 </details>
-
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Richard Thien Duong's streak" src="https://streak-stats.demolab.com?user=richardthienduong&theme=submarine-flowers&hide_border=true&background=5B6D5B&currStreakNum=F6E6E4&stroke=A6BB8D&ring=F6E6E4&border=F6E6E4&fire=F68F9E&sideNums=F6E6E4&currStreakLabel=E2BCB7&sideLabels=E2BCB7&dates=A6BB8D"/>
-    </a>
-</p>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richard Thien Duong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=richardthienduong&show_icons=true&include_all_commits=true&count_private=true&theme=panda&hide_border=true&bg_color=5B6D5B&title_color=F6E6E4&icon_color=A6BB8D&text_color=E2BCB7" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richard Thien Duong's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardthienduong&langs_count=8&theme=react&hide_border=true&bg_color=5B6D5B&title_color=F6E6E4&icon_color=A6BB8D&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Richard Thien Duong's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=richardthienduong&bg_color=5B6D5B&color=F6E6E4&line=A6BB8D&point=FFFFFF&hide_border=true" /></a> -->
-  <!-- <h3>⚡ Recent GitHub Activity</h3> -->
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-
-
-</details>
