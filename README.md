@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <p align="center">
-  <a href="https://hisuby.com/me">
-    <img src="images/name_label.png" width="30%"/></a>
+  <a href="https://portofolio-coral-pi.vercel.app/">
+    <img src="https://portofolio-coral-pi.vercel.app/images/Richard.PNG" width="30%"/></a>
 </p>
 
 <p align="center">
